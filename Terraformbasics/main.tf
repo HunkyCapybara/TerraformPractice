@@ -5,7 +5,7 @@ resource "aws_instance" "anyname" {
     key_name = "Thanks"
     tags = {
       
-        name = "Terraform"
+        name = "Terrafrom"
   }
   
 }
